@@ -6,8 +6,8 @@ A google fonts collection with some additional properties and not some additiona
 interface GoogleFontItem {
   id: string;
   family: string;
-  full_name: string;
-  post_script_name: string;
+  fullName: string;
+  postScriptName: string;
   preview: string;
   style: string;
   url: string;
